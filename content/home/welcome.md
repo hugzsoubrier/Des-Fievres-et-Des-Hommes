@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Vulgariser les maladies infectieuses et la Santé publique"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Des Hommes & Des Fièvres est un podcast audio qui vise a vulgariser les connaissances scientifiques autour des maladies infectieuses et de la Santé publique. Vous trouverez ici les liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
