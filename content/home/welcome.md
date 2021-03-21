@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Bonjour !"
-subtitle: ""
+subtitle: "       "
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Bienvenu sur le site du podcast audio Des Fièvres & Des Hommes. Vous trouverez ici les liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
+Bienvenus sur le site du podcast audio Des Fièvres & Des Hommes. Vous trouverez ici les descriptions et liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
