@@ -90,6 +90,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 [module]
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
+
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
     
