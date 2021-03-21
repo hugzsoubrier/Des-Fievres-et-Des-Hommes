@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Présentation"
-  url = "post"
+  url = "Description"
   weight = 20
 
 [[main]]
