@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Vulgariser les maladies infectieuses et la Santé publique"
+title: "Bonjour ! "
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Des Hommes & Des Fièvres est un podcast audio qui vise a vulgariser les connaissances scientifiques autour des maladies infectieuses et de la Santé publique. Vous trouverez ici les liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
+Bienvenus sur le site du podcast audio Des Fièvres & Des Hommes. Vous trouverez ici les liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
